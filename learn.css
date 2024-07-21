@@ -1,0 +1,90 @@
+ul li{
+    padding:6px;
+    
+
+}
+ ul a{
+    text-decoration: none;
+}
+.flex_learn{
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 10px;
+    
+}
+.Certificate{
+    margin-left: 10px;
+    padding: 20px;
+    background-color: #fff;
+    border-radius:5px ;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+
+}
+.course{
+    margin-left: 10px;
+    padding: 20px;
+    background-color: #fff;
+    border-radius:5px ;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+.courseinner{
+    display: flex;
+    flex-wrap: wrap;
+    margin-bottom: 10px;
+} 
+.feedback{
+    
+        margin-left: 10px;
+        padding: 20px;
+        background-color: #fff;
+        border-radius:5px ;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    
+}
+.logout{
+    text-align:center;
+    
+    margin-left: 10px;
+    padding: 20px;
+    background-color: #fff;
+    border-radius:5px ;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+
+}
+.subscribe{
+    margin-left: 10px;
+    padding: 20px;
+    background-color: #fff;
+    border-radius:5px ;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+.password{
+    margin-left: 10px;
+    padding: 20px;
+    background-color: #fff;
+    border-radius:5px ;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+
+}
+.modules{
+    width: 80%;
+    margin-left: 10%;
+    margin-top: 20px;
+}
+.modules h4{
+    cursor: pointer;
+}
+.modules h4 a{
+    text-decoration: none;
+
+}
+.modules h4 a:active{
+    color: green;
+}
+.courseinner div button a{
+    text-decoration: none;
+    color: red;
+}
+.courseinner div button a:hover{
+    color: white;
+}
